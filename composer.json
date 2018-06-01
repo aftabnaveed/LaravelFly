@@ -13,9 +13,6 @@
       "name": "scil"
     }
   ],
-  "require": {
-    "classpreloader/classpreloader": "^3.2"
-  },
   "suggest": {
     "ext-inotify": ">=2.0.0"
   },
